@@ -1,10 +1,10 @@
+import react from "react";
+import "./styles.css";
 
-
-import react from 'react';
-
-export default function App(){
-  return(
+export default function App() {
+  return (
     <div>
+      <h1>Hello</h1>
     </div>
-  )
+  );
 }
